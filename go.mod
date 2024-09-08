@@ -1,4 +1,4 @@
-module github.com/solana-grpc-stream
+module github.com/kalblaer/geyser-grpc-plugin
 
 go 1.22.2
 
